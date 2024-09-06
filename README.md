@@ -10,12 +10,14 @@
 ## GoF Patterns
 
 > "Coding like poetry should be short and concise"
+>
 > Santosh Kalwar
 
 ### Creational Design Patterns
 
 > "Any fool can write code that a computer can understand.
 > Good programmers write code that humans can understand."
+>
 > Martin Fowler
 
 #### Abstract Factory
@@ -48,6 +50,7 @@ access to it.
 
 > "Software and cathedrals are much the same –
 > first we build them, then we pray."
+>
 > Samuel T. Redwine, Jr.
 
 #### Adapter
@@ -83,6 +86,7 @@ Provides a surrogate or placeholder for another object to controll access to it.
 ### Behavioral Design Patterns
 
 > "I’m not a great programmer; I’m just a good programmer with great habits."
+>
 > Kent Beck
 
 
