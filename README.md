@@ -120,3 +120,12 @@ algorithm without changing the algorithm’s structure.
 #### Chain Of Responsibility
 Achieves loose coupling in software design where a request from
 the client is passed to a chain of objects to process them.
+
+---
+
+## Resources
+
+- https://refactoring.guru/
+- https://martinfowler.com/eaaCatalog/
+- https://www.amazon.com.br/Design-Patterns-Object-Oriented-Addison-Wesley-Professional-ebook/dp/B000SEIBB8
+- https://www.amazon.com.br/Head-First-Design-Patterns-Freeman/dp/0596007124
