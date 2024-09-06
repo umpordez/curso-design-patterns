@@ -9,11 +9,14 @@
 
 ## GoF Patterns
 
-> Nice quote here :)
+> "Coding like poetry should be short and concise"
+> Santosh Kalwar
 
 ### Creational Design Patterns
 
-> Nice quote here :)
+> "Any fool can write code that a computer can understand.
+> Good programmers write code that humans can understand."
+> Martin Fowler
 
 #### Abstract Factory
 Provides an interface for creating families of related or dependent objects
@@ -43,7 +46,9 @@ access to it.
 
 ### Structural Design Patterns
 
-> Nice quote here :)
+> "Software and cathedrals are much the same –
+> first we build them, then we pray."
+> Samuel T. Redwine, Jr.
 
 #### Adapter
 Converts the interface of a class into another interface the clients expects.
@@ -77,7 +82,9 @@ Provides a surrogate or placeholder for another object to controll access to it.
 
 ### Behavioral Design Patterns
 
-> Nice quote here
+> "I’m not a great programmer; I’m just a good programmer with great habits."
+> Kent Beck
+
 
 #### Chain Of Responsibility
 Achieves loose coupling in software design where a request from
