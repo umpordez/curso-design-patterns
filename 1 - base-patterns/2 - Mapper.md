@@ -4,7 +4,6 @@ An object that sets up a communication between two independent objects.
 ## Problem)
 
 ```javascript
-
 const pricingMap = {
     100: { intallment: 1, fee: 0.5 },
     200: { intallment: 2, fee: 0.7 },
@@ -36,5 +35,4 @@ function pay(value) {
 (async () => {
     await pay(200);
 });
-
 ```

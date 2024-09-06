@@ -5,7 +5,7 @@ services.
 ## Problem)
 
 `webhook.js`
-```
+```javascript
 import fs from 'node:fs';
 
 function getFee() {
@@ -20,7 +20,7 @@ function receivePayment(payment) {
 ```
 
 `orders.js`
-```
+```javascript
 import fs from 'node:fs';
 
 function getFee() {
