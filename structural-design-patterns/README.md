@@ -5,7 +5,7 @@
 >
 > Samuel T. Redwine, Jr.
 
---
+---
 
 ## Adapter
 Conver the interface of a class into another interface clients expect.
