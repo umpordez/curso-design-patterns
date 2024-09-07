@@ -20,9 +20,9 @@ class to instantiate. Factory Method lets a class defer instation to
 subclasses.
 
 ## Prototype
-Speicify the kinds of objects to create using a prototypical instance,
+Specify the kinds of objects to create using a prototypical instance,
 and create new objects by copying this prototype
 
-## Signleton
+## Singleton
 Ensure a class only has one instance, and provide a global point of access
 to it.
