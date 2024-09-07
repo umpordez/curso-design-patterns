@@ -27,6 +27,7 @@ async function payOrder(gateway, customer, order, value) {
 ```
 
 # Solution
+```javascript
 const Pagseguro = require('pagseguro');
 const Paypal = require('paypal');
 
@@ -47,7 +48,7 @@ function getPaymentGateway(gateway) {
 
     return new PaypalAdapter();
 }
-
+```
 async function payOrder(gateway, customer, order, value) {
     const paymentGateway = getPaymentGateway(gateway);
     await paymentGateway.pay({ customer, order, value });
