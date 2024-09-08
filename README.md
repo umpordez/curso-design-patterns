@@ -128,9 +128,8 @@ Defines the skeleton of an algorithm in a method, deferring some steps to
 subclasses. Template Method lets subclasses redefine certain steps of an
 algorithm without changing the algorithm’s structure.
 
-#### Chain Of Responsibility
-Achieves loose coupling in software design where a request from
-the client is passed to a chain of objects to process them.
+#### Visitor
+Visitor pattern is used when we have to perform an operation on a group of similar kind of Objects.
 
 ---
 
